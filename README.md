@@ -2,6 +2,12 @@ api
 ===
 
 # Start environment
+
+1. Install composer dependencies 
+```
+./composer.phar install
+```
+2. Run backend
 ```
 make run
 ```
